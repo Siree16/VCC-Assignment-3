@@ -1,0 +1,115 @@
+2025-03-23 18:16:26,690 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2025-03-23 18:16:26,691 - [33mPress CTRL+C to quit[0m
+2025-03-23 18:16:26,692 -  * Restarting with stat
+2025-03-23 18:16:26,871 -  * Debugger is active!
+2025-03-23 18:16:26,875 -  * Debugger PIN: 602-473-483
+2025-03-23 18:16:35,910 - Current CPU Usage: 2.0%
+2025-03-23 18:16:35,912 - Error in /calculate: cannot access local variable 'migration_active' where it is not associated with a value
+2025-03-23 18:16:35,913 - 127.0.0.1 - - [23/Mar/2025 18:16:35] "[35m[1mPOST /calculate HTTP/1.1[0m" 500 -
+2025-03-23 18:16:38,560 - Current CPU Usage: 0.6%
+2025-03-23 18:16:38,561 - Error in /calculate: cannot access local variable 'migration_active' where it is not associated with a value
+2025-03-23 18:16:38,561 - 127.0.0.1 - - [23/Mar/2025 18:16:38] "[35m[1mPOST /calculate HTTP/1.1[0m" 500 -
+2025-03-23 18:16:44,575 - Current CPU Usage: 4.2%
+2025-03-23 18:16:44,575 - Error in /calculate: cannot access local variable 'migration_active' where it is not associated with a value
+2025-03-23 18:16:44,576 - 127.0.0.1 - - [23/Mar/2025 18:16:44] "[35m[1mPOST /calculate HTTP/1.1[0m" 500 -
+2025-03-23 18:16:45,465 - Current CPU Usage: 2.7%
+2025-03-23 18:16:45,465 - Error in /calculate: cannot access local variable 'migration_active' where it is not associated with a value
+2025-03-23 18:16:45,466 - 127.0.0.1 - - [23/Mar/2025 18:16:45] "[35m[1mPOST /calculate HTTP/1.1[0m" 500 -
+2025-03-23 18:16:45,600 - Current CPU Usage: 3.9%
+2025-03-23 18:16:45,612 - Error in /calculate: cannot access local variable 'migration_active' where it is not associated with a value
+2025-03-23 18:16:45,613 - 127.0.0.1 - - [23/Mar/2025 18:16:45] "[35m[1mPOST /calculate HTTP/1.1[0m" 500 -
+2025-03-23 18:16:45,740 - Current CPU Usage: 10.2%
+2025-03-23 18:16:45,746 - Error in /calculate: cannot access local variable 'migration_active' where it is not associated with a value
+2025-03-23 18:16:45,747 - 127.0.0.1 - - [23/Mar/2025 18:16:45] "[35m[1mPOST /calculate HTTP/1.1[0m" 500 -
+2025-03-23 18:16:45,933 - Current CPU Usage: 16.3%
+2025-03-23 18:16:45,934 - Error in /calculate: cannot access local variable 'migration_active' where it is not associated with a value
+2025-03-23 18:16:45,934 - 127.0.0.1 - - [23/Mar/2025 18:16:45] "[35m[1mPOST /calculate HTTP/1.1[0m" 500 -
+2025-03-23 18:16:46,104 - Current CPU Usage: 17.0%
+2025-03-23 18:16:46,104 - Error in /calculate: cannot access local variable 'migration_active' where it is not associated with a value
+2025-03-23 18:16:46,105 - 127.0.0.1 - - [23/Mar/2025 18:16:46] "[35m[1mPOST /calculate HTTP/1.1[0m" 500 -
+2025-03-23 18:16:48,306 - Current CPU Usage: 12.0%
+2025-03-23 18:16:48,307 - Error in /calculate: cannot access local variable 'migration_active' where it is not associated with a value
+2025-03-23 18:16:48,307 - 127.0.0.1 - - [23/Mar/2025 18:16:48] "[35m[1mPOST /calculate HTTP/1.1[0m" 500 -
+2025-03-23 18:25:54,422 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2025-03-23 18:25:54,423 - [33mPress CTRL+C to quit[0m
+2025-03-23 18:25:54,423 -  * Restarting with stat
+2025-03-23 18:25:54,597 -  * Debugger is active!
+2025-03-23 18:25:54,600 -  * Debugger PIN: 602-473-483
+2025-03-23 18:25:58,337 - 127.0.0.1 - - [23/Mar/2025 18:25:58] "GET / HTTP/1.1" 200 -
+2025-03-23 18:25:58,423 - 127.0.0.1 - - [23/Mar/2025 18:25:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-23 18:26:01,852 - Current CPU Usage: 2.1%
+2025-03-23 18:26:01,853 - Running tasks locally.
+2025-03-23 18:26:01,854 - 127.0.0.1 - - [23/Mar/2025 18:26:01] "POST /calculate HTTP/1.1" 200 -
+2025-03-23 18:26:13,007 - Current CPU Usage: 9.8%
+2025-03-23 18:26:13,008 - Running tasks locally.
+2025-03-23 18:26:13,009 - 127.0.0.1 - - [23/Mar/2025 18:26:13] "POST /calculate HTTP/1.1" 200 -
+2025-03-23 18:26:16,205 - Current CPU Usage: 3.1%
+2025-03-23 18:26:16,205 - Running tasks locally.
+2025-03-23 18:26:16,207 - 127.0.0.1 - - [23/Mar/2025 18:26:16] "POST /calculate HTTP/1.1" 200 -
+2025-03-23 18:26:25,851 - Current CPU Usage: 5.1%
+2025-03-23 18:26:25,851 - Running tasks locally.
+2025-03-23 18:26:25,852 - Error in /calculate: maximum recursion depth exceeded
+2025-03-23 18:26:25,853 - 127.0.0.1 - - [23/Mar/2025 18:26:25] "[35m[1mPOST /calculate HTTP/1.1[0m" 500 -
+2025-03-23 18:30:37,126 - Current CPU Usage: 2.8%
+2025-03-23 18:30:37,127 - Running tasks locally.
+2025-03-23 18:30:37,127 - 127.0.0.1 - - [23/Mar/2025 18:30:37] "POST /calculate HTTP/1.1" 200 -
+2025-03-23 18:44:48,455 -  * Detected change in '/home/siree/math_app/app.py', reloading
+2025-03-23 18:44:48,617 -  * Restarting with stat
+2025-03-23 18:44:48,981 -  * Debugger is active!
+2025-03-23 18:44:48,986 -  * Debugger PIN: 602-473-483
+2025-03-23 18:45:06,075 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2025-03-23 18:45:06,075 - [33mPress CTRL+C to quit[0m
+2025-03-23 18:45:06,075 -  * Restarting with stat
+2025-03-23 18:45:06,249 -  * Debugger is active!
+2025-03-23 18:45:06,252 -  * Debugger PIN: 602-473-483
+2025-03-23 18:45:10,587 - 127.0.0.1 - - [23/Mar/2025 18:45:10] "GET / HTTP/1.1" 200 -
+2025-03-23 18:45:11,736 - Current CPU Usage: 80%
+2025-03-23 18:45:11,736 - CPU usage exceeded 75%. Starting migration to GCP...
+2025-03-23 18:45:14,268 - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-73905fa39cdsm5698730b3a.25 - gsmtp')
+2025-03-23 18:45:14,712 - Current CPU Usage: 80%
+2025-03-23 18:45:15,432 - Current CPU Usage: 80%
+2025-03-23 18:45:15,611 - Current CPU Usage: 80%
+2025-03-23 18:47:28,468 - Error in /calculate: HTTPConnectionPool(host='10.128.0.18', port=5001): Max retries exceeded with url: /calculate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f3df5bdaed0>, 'Connection to 10.128.0.18 timed out. (connect timeout=None)'))
+2025-03-23 18:47:28,489 - 127.0.0.1 - - [23/Mar/2025 18:47:28] "[35m[1mPOST /calculate HTTP/1.1[0m" 500 -
+2025-03-23 18:47:28,480 - Error in /calculate: HTTPConnectionPool(host='10.128.0.18', port=5001): Max retries exceeded with url: /calculate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f3df65cbf50>, 'Connection to 10.128.0.18 timed out. (connect timeout=None)'))
+2025-03-23 18:47:28,489 - Error in /calculate: HTTPConnectionPool(host='10.128.0.18', port=5001): Max retries exceeded with url: /calculate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f3df5bd88c0>, 'Connection to 10.128.0.18 timed out. (connect timeout=None)'))
+2025-03-23 18:47:28,503 - 127.0.0.1 - - [23/Mar/2025 18:47:28] "[35m[1mPOST /calculate HTTP/1.1[0m" 500 -
+2025-03-23 18:47:28,474 - Error in /calculate: HTTPConnectionPool(host='10.128.0.18', port=5001): Max retries exceeded with url: /calculate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f3df5bd9d00>, 'Connection to 10.128.0.18 timed out. (connect timeout=None)'))
+2025-03-23 18:47:28,504 - 127.0.0.1 - - [23/Mar/2025 18:47:28] "[35m[1mPOST /calculate HTTP/1.1[0m" 500 -
+2025-03-23 18:47:28,499 - 127.0.0.1 - - [23/Mar/2025 18:47:28] "[35m[1mPOST /calculate HTTP/1.1[0m" 500 -
+2025-03-23 18:49:16,049 -  * Detected change in '/home/siree/math_app/app.py', reloading
+2025-03-23 18:49:16,129 -  * Restarting with stat
+2025-03-23 18:49:45,801 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2025-03-23 18:49:45,802 - [33mPress CTRL+C to quit[0m
+2025-03-23 18:49:45,802 -  * Restarting with stat
+2025-03-23 18:49:45,985 -  * Debugger is active!
+2025-03-23 18:49:45,988 -  * Debugger PIN: 602-473-483
+2025-03-23 18:50:02,494 - Current CPU Usage: 50%
+2025-03-23 18:50:02,495 - Running tasks locally.
+2025-03-23 18:50:02,497 - 127.0.0.1 - - [23/Mar/2025 18:50:02] "POST /calculate HTTP/1.1" 200 -
+2025-03-23 18:50:06,933 - Current CPU Usage: 50%
+2025-03-23 18:50:06,933 - Running tasks locally.
+2025-03-23 18:50:06,933 - 127.0.0.1 - - [23/Mar/2025 18:50:06] "POST /calculate HTTP/1.1" 200 -
+2025-03-23 18:50:33,835 - Current CPU Usage: 50%
+2025-03-23 18:50:33,839 - Running tasks locally.
+2025-03-23 18:50:33,839 - Error in /calculate: maximum recursion depth exceeded
+2025-03-23 18:50:33,840 - 127.0.0.1 - - [23/Mar/2025 18:50:33] "[35m[1mPOST /calculate HTTP/1.1[0m" 500 -
+2025-03-23 18:50:37,953 - Current CPU Usage: 50%
+2025-03-23 18:50:37,954 - Running tasks locally.
+2025-03-23 18:50:37,955 - Error in /calculate: maximum recursion depth exceeded
+2025-03-23 18:50:37,956 - 127.0.0.1 - - [23/Mar/2025 18:50:37] "[35m[1mPOST /calculate HTTP/1.1[0m" 500 -
+2025-03-23 18:50:47,122 - Current CPU Usage: 50%
+2025-03-23 18:50:47,125 - Running tasks locally.
+2025-03-23 18:50:47,127 - 127.0.0.1 - - [23/Mar/2025 18:50:47] "POST /calculate HTTP/1.1" 200 -
